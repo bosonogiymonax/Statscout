@@ -1,0 +1,138 @@
+C:/Users/Александр/Documents/Visual Studio 2015/Projects/Scout/Scout/bin/ApplicationInsights.config
+C:/Users/Александр/Documents/Visual Studio 2015/Projects/Scout/Scout/bin/roslyn/csc.exe
+C:/Users/Александр/Documents/Visual Studio 2015/Projects/Scout/Scout/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+C:/Users/Александр/Documents/Visual Studio 2015/Projects/Scout/Scout/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/Александр/Documents/Visual Studio 2015/Projects/Scout/Scout/bin/roslyn/Microsoft.CodeAnalysis.dll
+C:/Users/Александр/Documents/Visual Studio 2015/Projects/Scout/Scout/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+C:/Users/Александр/Documents/Visual Studio 2015/Projects/Scout/Scout/bin/roslyn/Microsoft.CSharp.Core.targets
+C:/Users/Александр/Documents/Visual Studio 2015/Projects/Scout/Scout/bin/roslyn/Microsoft.VisualBasic.Core.targets
+C:/Users/Александр/Documents/Visual Studio 2015/Projects/Scout/Scout/bin/roslyn/System.Collections.Immutable.dll
+C:/Users/Александр/Documents/Visual Studio 2015/Projects/Scout/Scout/bin/roslyn/System.Reflection.Metadata.dll
+C:/Users/Александр/Documents/Visual Studio 2015/Projects/Scout/Scout/bin/roslyn/vbc.exe
+C:/Users/Александр/Documents/Visual Studio 2015/Projects/Scout/Scout/bin/roslyn/VBCSCompiler.exe
+C:/Users/Александр/Documents/Visual Studio 2015/Projects/Scout/Scout/bin/roslyn/VBCSCompiler.exe.config
+C:/Users/Александр/Documents/Visual Studio 2015/Projects/Scout/Scout/bin/Scout.dll.config
+C:/Users/Александр/Documents/Visual Studio 2015/Projects/Scout/Scout/bin/Scout.dll
+C:/Users/Александр/Documents/Visual Studio 2015/Projects/Scout/Scout/bin/Scout.pdb
+C:/Users/Александр/Documents/Visual Studio 2015/Projects/Scout/Scout/bin/Microsoft.AI.Agent.Intercept.dll
+C:/Users/Александр/Documents/Visual Studio 2015/Projects/Scout/Scout/bin/Microsoft.AI.DependencyCollector.dll
+C:/Users/Александр/Documents/Visual Studio 2015/Projects/Scout/Scout/bin/Microsoft.AI.PerfCounterCollector.dll
+C:/Users/Александр/Documents/Visual Studio 2015/Projects/Scout/Scout/bin/Microsoft.AI.ServerTelemetryChannel.dll
+C:/Users/Александр/Documents/Visual Studio 2015/Projects/Scout/Scout/bin/Microsoft.AI.Web.dll
+C:/Users/Александр/Documents/Visual Studio 2015/Projects/Scout/Scout/bin/Microsoft.AI.WindowsServer.dll
+C:/Users/Александр/Documents/Visual Studio 2015/Projects/Scout/Scout/bin/Microsoft.ApplicationInsights.dll
+C:/Users/Александр/Documents/Visual Studio 2015/Projects/Scout/Scout/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:/Users/Александр/Documents/Visual Studio 2015/Projects/Scout/Scout/bin/Microsoft.AI.DependencyCollector.xml
+C:/Users/Александр/Documents/Visual Studio 2015/Projects/Scout/Scout/bin/Microsoft.AI.ServerTelemetryChannel.xml
+C:/Users/Александр/Documents/Visual Studio 2015/Projects/Scout/Scout/bin/Microsoft.AI.Web.xml
+C:/Users/Александр/Documents/Visual Studio 2015/Projects/Scout/Scout/bin/Microsoft.AI.WindowsServer.xml
+C:/Users/Александр/Documents/Visual Studio 2015/Projects/Scout/Scout/bin/Microsoft.ApplicationInsights.xml
+C:/Users/Александр/Documents/Visual Studio 2015/Projects/Scout/Scout/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:/Users/Александр/Documents/Visual Studio 2015/Projects/Scout/Scout/obj/Debug/Scout.csprojResolveAssemblyReference.cache
+C:/Users/Александр/Documents/Visual Studio 2015/Projects/Scout/Scout/obj/Debug/Scout.dll
+C:/Users/Александр/Documents/Visual Studio 2015/Projects/Scout/Scout/obj/Debug/Scout.pdb
+/Volumes/NO NAME/Scout/Scout/obj/Debug/Scout.csprojAssemblyReference.cache
+/Volumes/NO NAME/Scout/Scout/obj/Debug/Scout.csproj.CoreCompileInputs.cache
+/Volumes/NO NAME/Scout/Scout/obj/Debug/Scout.dll
+/Volumes/NO NAME/Scout/Scout/obj/Debug/Scout.pdb
+C:\Users\ignat.berezhnyh\Desktop\Scout\Scout\bin\ApplicationInsights.config
+C:\Users\ignat.berezhnyh\Desktop\Scout\Scout\bin\roslyn\csc.exe
+C:\Users\ignat.berezhnyh\Desktop\Scout\Scout\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ignat.berezhnyh\Desktop\Scout\Scout\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ignat.berezhnyh\Desktop\Scout\Scout\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ignat.berezhnyh\Desktop\Scout\Scout\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ignat.berezhnyh\Desktop\Scout\Scout\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ignat.berezhnyh\Desktop\Scout\Scout\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ignat.berezhnyh\Desktop\Scout\Scout\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ignat.berezhnyh\Desktop\Scout\Scout\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ignat.berezhnyh\Desktop\Scout\Scout\bin\roslyn\vbc.exe
+C:\Users\ignat.berezhnyh\Desktop\Scout\Scout\bin\roslyn\VBCSCompiler.exe
+C:\Users\ignat.berezhnyh\Desktop\Scout\Scout\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ignat.berezhnyh\Desktop\Scout\Scout\bin\Scout.dll.config
+C:\Users\ignat.berezhnyh\Desktop\Scout\Scout\bin\Scout.dll
+C:\Users\ignat.berezhnyh\Desktop\Scout\Scout\bin\Scout.pdb
+C:\Users\ignat.berezhnyh\Desktop\Scout\Scout\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ignat.berezhnyh\Desktop\Scout\Scout\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ignat.berezhnyh\Desktop\Scout\Scout\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ignat.berezhnyh\Desktop\Scout\Scout\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ignat.berezhnyh\Desktop\Scout\Scout\bin\Microsoft.AI.Web.dll
+C:\Users\ignat.berezhnyh\Desktop\Scout\Scout\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ignat.berezhnyh\Desktop\Scout\Scout\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ignat.berezhnyh\Desktop\Scout\Scout\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ignat.berezhnyh\Desktop\Scout\Scout\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ignat.berezhnyh\Desktop\Scout\Scout\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ignat.berezhnyh\Desktop\Scout\Scout\bin\Microsoft.AI.Web.xml
+C:\Users\ignat.berezhnyh\Desktop\Scout\Scout\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ignat.berezhnyh\Desktop\Scout\Scout\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ignat.berezhnyh\Desktop\Scout\Scout\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ignat.berezhnyh\Desktop\Scout\Scout\obj\Debug\Scout.csprojAssemblyReference.cache
+C:\Users\ignat.berezhnyh\Desktop\Scout\Scout\obj\Debug\Scout.csproj.CoreCompileInputs.cache
+C:\Users\ignat.berezhnyh\Desktop\Scout\Scout\obj\Debug\Scout.csproj.CopyComplete
+C:\Users\ignat.berezhnyh\Desktop\Scout\Scout\obj\Debug\Scout.dll
+C:\Users\ignat.berezhnyh\Desktop\Scout\Scout\obj\Debug\Scout.pdb
+E:\Scout\Scout\bin\ApplicationInsights.config
+E:\Scout\Scout\bin\roslyn\csc.exe
+E:\Scout\Scout\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Scout\Scout\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Scout\Scout\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Scout\Scout\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Scout\Scout\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Scout\Scout\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Scout\Scout\bin\roslyn\System.Collections.Immutable.dll
+E:\Scout\Scout\bin\roslyn\System.Reflection.Metadata.dll
+E:\Scout\Scout\bin\roslyn\vbc.exe
+E:\Scout\Scout\bin\roslyn\VBCSCompiler.exe
+E:\Scout\Scout\bin\roslyn\VBCSCompiler.exe.config
+E:\Scout\Scout\bin\Scout.dll.config
+E:\Scout\Scout\bin\Scout.dll
+E:\Scout\Scout\bin\Scout.pdb
+E:\Scout\Scout\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Scout\Scout\bin\Microsoft.AI.DependencyCollector.dll
+E:\Scout\Scout\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Scout\Scout\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Scout\Scout\bin\Microsoft.AI.Web.dll
+E:\Scout\Scout\bin\Microsoft.AI.WindowsServer.dll
+E:\Scout\Scout\bin\Microsoft.ApplicationInsights.dll
+E:\Scout\Scout\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Scout\Scout\bin\Microsoft.AI.DependencyCollector.xml
+E:\Scout\Scout\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Scout\Scout\bin\Microsoft.AI.Web.xml
+E:\Scout\Scout\bin\Microsoft.AI.WindowsServer.xml
+E:\Scout\Scout\bin\Microsoft.ApplicationInsights.xml
+E:\Scout\Scout\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Scout\Scout\obj\Debug\Scout.csprojResolveAssemblyReference.cache
+E:\Scout\Scout\obj\Debug\Scout.dll
+E:\Scout\Scout\obj\Debug\Scout.pdb
+C:\Users\Александр\Desktop\Scout\Scout\bin\ApplicationInsights.config
+C:\Users\Александр\Desktop\Scout\Scout\bin\roslyn\csc.exe
+C:\Users\Александр\Desktop\Scout\Scout\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Александр\Desktop\Scout\Scout\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Александр\Desktop\Scout\Scout\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Александр\Desktop\Scout\Scout\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Александр\Desktop\Scout\Scout\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Александр\Desktop\Scout\Scout\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Александр\Desktop\Scout\Scout\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Александр\Desktop\Scout\Scout\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Александр\Desktop\Scout\Scout\bin\roslyn\vbc.exe
+C:\Users\Александр\Desktop\Scout\Scout\bin\roslyn\VBCSCompiler.exe
+C:\Users\Александр\Desktop\Scout\Scout\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Александр\Desktop\Scout\Scout\bin\Scout.dll.config
+C:\Users\Александр\Desktop\Scout\Scout\bin\Scout.dll
+C:\Users\Александр\Desktop\Scout\Scout\bin\Scout.pdb
+C:\Users\Александр\Desktop\Scout\Scout\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Александр\Desktop\Scout\Scout\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Александр\Desktop\Scout\Scout\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Александр\Desktop\Scout\Scout\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Александр\Desktop\Scout\Scout\bin\Microsoft.AI.Web.dll
+C:\Users\Александр\Desktop\Scout\Scout\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Александр\Desktop\Scout\Scout\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Александр\Desktop\Scout\Scout\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Александр\Desktop\Scout\Scout\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Александр\Desktop\Scout\Scout\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Александр\Desktop\Scout\Scout\bin\Microsoft.AI.Web.xml
+C:\Users\Александр\Desktop\Scout\Scout\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Александр\Desktop\Scout\Scout\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Александр\Desktop\Scout\Scout\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Александр\Desktop\Scout\Scout\obj\Debug\Scout.dll
+C:\Users\Александр\Desktop\Scout\Scout\obj\Debug\Scout.pdb
+C:\Users\Александр\Desktop\Scout\Scout\obj\Debug\Scout.csprojResolveAssemblyReference.cache
