@@ -1,0 +1,99 @@
+﻿body{
+    font-size: 20px;
+}
+
+label {
+    width: auto;
+    display: inline-block;
+}
+
+.textBox {
+    font-size: 24px;
+    margin: 10px;
+}
+
+.main {
+    font-size: 24px;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}
+
+header {
+    background-color: #040526;
+    height: 70px;
+}
+
+.heading {
+    font-size: 48px;
+    color: #fff;
+    font-family: Calibri;
+    text-align: center;
+    left: 50%;
+    letter-spacing: 10px;
+}
+
+footer{
+
+}
+
+.button {
+    font-size: 20px;
+    margin: 15px;
+    padding: 5px;
+    border-width: 3px;
+    border-radius: 10px;
+}
+
+#submitButton {
+    background-color: aquamarine;
+}
+
+#cancelButton {
+    background-color: peru;
+}
+
+.headerButton {
+    width: auto;
+    font-size: 20px;
+    letter-spacing: 5px;
+    color: #fff;
+    margin: 15px;
+    padding: 5px;
+    background: none;
+    border: none;
+}
+
+#contact {
+    float: right;
+}
+
+table {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+    font-size: 20px;
+    background: white;
+    max-width: 100%;
+    width: 100%;
+    border-collapse: collapse;
+    text-align: left;
+}
+
+th {
+    font-weight: normal;
+    color: #011f3b;
+    border-bottom: 2px solid #6678b1;
+    padding: 10px 8px;
+}
+
+td {
+    border-bottom: 1px solid #ccc;
+    color: #1a7bd6;
+    padding: 9px 8px;
+    transition: .3s linear;
+}
+
+tr:hover td {
+    background: #e8edff;
+}
